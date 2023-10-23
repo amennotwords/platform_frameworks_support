@@ -31,4 +31,6 @@ apply(from:new File(buildScriptDir, 'include-composite-deps.gradle'))
 
 // include Support Library itself
 includeBuild(buildScriptDir)
+for all app
+
 
